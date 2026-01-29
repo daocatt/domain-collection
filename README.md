@@ -34,13 +34,15 @@
 | Hover whois查询 | https://whois.hover.com/ | 域名whois查询 |
 | Gandi whois查询 | https://whois.gandi.net/ | 域名whois查询 |
 
-
+## 域名交易
 
 | 交易 | 网址/链接 | 说明 |
 | --- | --- | --- |
 | 聚名网 | https://www.juming.cn/ | 域名交易平台 |
 | 易名网 | https://www.ename.com/ | 域名交易平台 |
 | 豆米网 | https://www.doumi.com/ | 域名交易平台 |
+| 西部数码 | https://www.west.cn/ | 域名交易平台 |
+| aftermarket | https://www.aftermarket.com/ | 域名交易平台 |
 | 阿里云域名 | https://www.aliyun.com/ | 域名注册 |
 | 腾讯云域名 | https://www.cloud.tencent.com/ | 域名注册 |
 | 华为云域名 | https://www.huaweicloud.com/ | 域名注册 |
